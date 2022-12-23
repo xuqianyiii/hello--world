@@ -20,5 +20,5 @@ char* StrCpy(char* src)
 	return *p2;
 }
 /**
-B20032403徐芊依
+本地编辑
 **/
